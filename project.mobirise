@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NeQDesign",
-    "currentPage": "html.html",
+    "currentPage": "Strona Główna.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -59,7 +59,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 87,
+    "uniqCompNum": 89,
     "versionPublish": "4.11.4",
     "favicon": "",
     "": "on",
@@ -74,7 +74,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Cennik",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -627,7 +627,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Miniaturki",
-        "order": 7
+        "order": 3
       },
       "components": [
         {
@@ -1199,7 +1199,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Logo",
-        "order": 8
+        "order": 4
       },
       "components": [
         {
@@ -1745,7 +1745,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Mascot Logo",
-        "order": 9
+        "order": 5
       },
       "components": [
         {
@@ -2291,7 +2291,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Mockup",
-        "order": 10
+        "order": 6
       },
       "components": [
         {
@@ -2837,7 +2837,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Header",
-        "order": 11
+        "order": 7
       },
       "components": [
         {
@@ -3383,7 +3383,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Fortnite/gre",
-        "order": 12
+        "order": 8
       },
       "components": [
         {
@@ -3948,7 +3948,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Inne bannnery",
-        "order": 13
+        "order": 9
       },
       "components": [
         {
@@ -4520,7 +4520,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "NeQ Design Pack",
-        "order": 14
+        "order": 10
       },
       "components": [
         {
@@ -5093,7 +5093,7 @@
         }
       ]
     },
-    "html.html": {
+    "Strona Główna.html": {
       "settings": {
         "main": true,
         "title": "Strona Główna",
