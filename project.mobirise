@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NeQDesign",
-    "currentPage": "index.html",
+    "currentPage": "html.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -5093,7 +5093,7 @@
         }
       ]
     },
-    "index.html": {
+    "html.html": {
       "settings": {
         "main": true,
         "title": "Strona Główna",
