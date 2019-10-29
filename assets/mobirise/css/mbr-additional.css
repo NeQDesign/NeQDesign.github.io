@@ -1963,6 +1963,10 @@ section.lazy-placeholder:after {
 .cid-rGilcIRKwE .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-rGilcIRKwE .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-rGilcIRKwE .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-rGilcIRKwE .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rGilcIRKwE .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -2063,6 +2067,10 @@ section.lazy-placeholder:after {
   .cid-rGilcIRKwE .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rGilcIRKwE .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-rGilcIRKwE .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-rGilcIRKwE .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-rGilcIRKwE .navbar-collapse.collapsing .navbar-buttons,
   .cid-rGilcIRKwE .navbar-collapse.show .navbar-buttons {
@@ -3096,7 +3104,7 @@ section.lazy-placeholder:after {
 }
 .cid-rGihfssbtk {
   padding-top: 0px;
-  padding-bottom: 135px;
+  padding-bottom: 0px;
   background-color: #000000;
   overflow: hidden;
 }
