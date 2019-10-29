@@ -3285,3 +3285,14 @@ section.lazy-placeholder:after {
 .cid-qTkA127IK8 {
   background-image: url("../../../assets/images/mbr-1-1920x1280x-1-1920x1280.png");
 }
+.cid-rGk58ORnFo {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: #ffffff;
+}
+.cid-rGk58ORnFo .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rGk58ORnFo .btn {
+  margin: 0 0 .5rem 0;
+}
